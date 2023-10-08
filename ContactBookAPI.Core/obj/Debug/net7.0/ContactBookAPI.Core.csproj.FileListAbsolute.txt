@@ -1,0 +1,15 @@
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Core\bin\Debug\net7.0\ContactBookAPI.Core.deps.json
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Core\bin\Debug\net7.0\ContactBookAPI.Core.dll
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Core\bin\Debug\net7.0\ContactBookAPI.Core.pdb
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Core\bin\Debug\net7.0\ContactBookAPI.Model.dll
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Core\bin\Debug\net7.0\ContactBookAPI.Model.pdb
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Core\obj\Debug\net7.0\ContactBookAPI.Core.csproj.AssemblyReference.cache
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Core\obj\Debug\net7.0\ContactBookAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Core\obj\Debug\net7.0\ContactBookAPI.Core.AssemblyInfoInputs.cache
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Core\obj\Debug\net7.0\ContactBookAPI.Core.AssemblyInfo.cs
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Core\obj\Debug\net7.0\ContactBookAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Core\obj\Debug\net7.0\ContactBookAPI.Core.csproj.CopyComplete
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Core\obj\Debug\net7.0\ContactBookAPI.Core.dll
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Core\obj\Debug\net7.0\refint\ContactBookAPI.Core.dll
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Core\obj\Debug\net7.0\ContactBookAPI.Core.pdb
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Core\obj\Debug\net7.0\ref\ContactBookAPI.Core.dll

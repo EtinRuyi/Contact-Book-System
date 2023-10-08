@@ -1,0 +1,12 @@
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Model\bin\Debug\net7.0\ContactBookAPI.Model.deps.json
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Model\bin\Debug\net7.0\ContactBookAPI.Model.dll
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Model\bin\Debug\net7.0\ContactBookAPI.Model.pdb
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net7.0\ContactBookAPI.Model.csproj.AssemblyReference.cache
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net7.0\ContactBookAPI.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net7.0\ContactBookAPI.Model.AssemblyInfoInputs.cache
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net7.0\ContactBookAPI.Model.AssemblyInfo.cs
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net7.0\ContactBookAPI.Model.csproj.CoreCompileInputs.cache
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net7.0\ContactBookAPI.Model.dll
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net7.0\refint\ContactBookAPI.Model.dll
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net7.0\ContactBookAPI.Model.pdb
+C:\Users\omoru\Desktop\ContactBookAPI\ContactBookAPI.Model\obj\Debug\net7.0\ref\ContactBookAPI.Model.dll
